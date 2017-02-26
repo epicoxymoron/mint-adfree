@@ -70,3 +70,7 @@ mint.intuit.com###rollover-link
 
 ! "Get growth & tax benefits" panel on left column.
 mint.intuit.com###ira-link
+
+! Bills is just an awful feature.
+mint.intuit.com##.BillsModuleView
+mint.intuit.com##.MintNavigationView #bills
