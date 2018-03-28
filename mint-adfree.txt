@@ -84,3 +84,9 @@ mint.intuit.com##.creditScoreWidget footer
 
 ! Do I work for you?
 mint.intuit.com##.feedbackWidget
+
+! Remove Investments advertisement on Overview page
+mint.intuit.com##.investmentsWidget footer
+
+! Remove ads on Transactions page
+mint.intuit.com##.TxnOfferWidgetContainer
