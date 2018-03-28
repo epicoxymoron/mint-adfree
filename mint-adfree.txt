@@ -76,3 +76,11 @@ mint.intuit.com###ira-link
 ! Bills is just an awful feature.
 mint.intuit.com##.BillsModuleView
 mint.intuit.com##.MintNavigationView #bills
+
+! My credit score is great.  I don't need you to tell me why.
+mint.intuit.com##.creditScoreWidget .AboutYourScoreViewV2
+mint.intuit.com##.creditScoreWidget .TopFactorsList
+mint.intuit.com##.creditScoreWidget footer
+
+! Do I work for you?
+mint.intuit.com##.feedbackWidget
