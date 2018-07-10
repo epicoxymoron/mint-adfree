@@ -91,3 +91,6 @@ mint.intuit.com##.investmentsWidget footer
 ! Remove ads on Transactions page
 mint.intuit.com##.TxnOfferWidgetContainer
 mint.intuit.com###TxnOfferWidgetContainer
+
+! ugh, too obvious
+mint.intuit.com##[class^=promotion]
